@@ -1,0 +1,6 @@
+C:\Users\Hello\Desktop\Visuel Studio Codes\MyVaribles\MyVaribles\bin\Debug\MyVaribles.exe.config
+F:\Visuel Studio Codes\MyVaribles\MyVaribles\bin\Debug\MyVaribles.exe.config
+F:\Visuel Studio Codes\MyVaribles\MyVaribles\bin\Debug\MyVaribles.exe
+F:\Visuel Studio Codes\MyVaribles\MyVaribles\bin\Debug\MyVaribles.pdb
+F:\Visuel Studio Codes\MyVaribles\MyVaribles\obj\Debug\MyVaribles.exe
+F:\Visuel Studio Codes\MyVaribles\MyVaribles\obj\Debug\MyVaribles.pdb
