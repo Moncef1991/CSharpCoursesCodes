@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\String_Types\String_Types\bin\Debug\String_Types.exe.config
+F:\Visuel Studio Codes\String_Types\String_Types\bin\Debug\String_Types.exe
+F:\Visuel Studio Codes\String_Types\String_Types\bin\Debug\String_Types.pdb
+F:\Visuel Studio Codes\String_Types\String_Types\obj\Debug\String_Types.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\String_Types\String_Types\obj\Debug\String_Types.exe
+F:\Visuel Studio Codes\String_Types\String_Types\obj\Debug\String_Types.pdb
