@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\DataTypes_charBooltringTypes\DataTypes_charBooltringTypes\bin\Debug\DataTypes_charBooltringTypes.exe.config
+F:\Visuel Studio Codes\DataTypes_charBooltringTypes\DataTypes_charBooltringTypes\bin\Debug\DataTypes_charBooltringTypes.exe
+F:\Visuel Studio Codes\DataTypes_charBooltringTypes\DataTypes_charBooltringTypes\bin\Debug\DataTypes_charBooltringTypes.pdb
+F:\Visuel Studio Codes\DataTypes_charBooltringTypes\DataTypes_charBooltringTypes\obj\Debug\DataTypes_charBooltringTypes.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\DataTypes_charBooltringTypes\DataTypes_charBooltringTypes\obj\Debug\DataTypes_charBooltringTypes.exe
+F:\Visuel Studio Codes\DataTypes_charBooltringTypes\DataTypes_charBooltringTypes\obj\Debug\DataTypes_charBooltringTypes.pdb

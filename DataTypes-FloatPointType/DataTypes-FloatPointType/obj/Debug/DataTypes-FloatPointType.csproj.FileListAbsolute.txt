@@ -10,3 +10,9 @@ F:\Visuel Studio Codes\DataTypes-FloatPointType\DataTypes-FloatPointType\obj\Deb
 F:\Visuel Studio Codes\DataTypes-FloatPointType\DataTypes-FloatPointType\bin\Debug\DataTypes-FloatPointType.exe
 F:\Visuel Studio Codes\DataTypes-FloatPointType\DataTypes-FloatPointType\bin\Debug\DataTypes-FloatPointType.pdb
 F:\Visuel Studio Codes\DataTypes-FloatPointType\DataTypes-FloatPointType\obj\Debug\DataTypes-FloatPointType.csprojResolveAssemblyReference.cache
+F:\LocalRepository\CSharpCourseCodes\DataTypes-FloatPointType\DataTypes-FloatPointType\bin\Debug\DataTypes-FloatPointType.exe.config
+F:\LocalRepository\CSharpCourseCodes\DataTypes-FloatPointType\DataTypes-FloatPointType\bin\Debug\DataTypes-FloatPointType.exe
+F:\LocalRepository\CSharpCourseCodes\DataTypes-FloatPointType\DataTypes-FloatPointType\bin\Debug\DataTypes-FloatPointType.pdb
+F:\LocalRepository\CSharpCourseCodes\DataTypes-FloatPointType\DataTypes-FloatPointType\obj\Debug\DataTypes-FloatPointType.csprojResolveAssemblyReference.cache
+F:\LocalRepository\CSharpCourseCodes\DataTypes-FloatPointType\DataTypes-FloatPointType\obj\Debug\DataTypes-FloatPointType.exe
+F:\LocalRepository\CSharpCourseCodes\DataTypes-FloatPointType\DataTypes-FloatPointType\obj\Debug\DataTypes-FloatPointType.pdb

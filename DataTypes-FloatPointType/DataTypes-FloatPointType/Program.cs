@@ -19,7 +19,7 @@ namespace DataTypes_FloatPointType
             double dlVar = 1D / 3;
             decimal dcVar = 1M / 3;
 
-            Console.WriteLine("float value = {0}/n double value = {1}/n decimal value = {2}", flVar, dlVar, dcVar);
+            Console.WriteLine("float value = {0}\ndouble value = {1}\ndecimal value = {2}", flVar, dlVar, dcVar);
             Console.ReadKey();
         }
     }
