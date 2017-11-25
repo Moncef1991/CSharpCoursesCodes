@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\MyEcxercice1\MyEcxercice1\bin\Debug\MyEcxercice1.exe.config
+F:\Visuel Studio Codes\MyEcxercice1\MyEcxercice1\bin\Debug\MyEcxercice1.exe
+F:\Visuel Studio Codes\MyEcxercice1\MyEcxercice1\bin\Debug\MyEcxercice1.pdb
+F:\Visuel Studio Codes\MyEcxercice1\MyEcxercice1\obj\Debug\MyEcxercice1.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\MyEcxercice1\MyEcxercice1\obj\Debug\MyEcxercice1.exe
+F:\Visuel Studio Codes\MyEcxercice1\MyEcxercice1\obj\Debug\MyEcxercice1.pdb
