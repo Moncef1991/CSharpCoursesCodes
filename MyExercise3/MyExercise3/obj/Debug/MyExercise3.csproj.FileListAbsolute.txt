@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\MyExercise3\MyExercise3\bin\Debug\MyExercise3.exe.config
+F:\Visuel Studio Codes\MyExercise3\MyExercise3\bin\Debug\MyExercise3.exe
+F:\Visuel Studio Codes\MyExercise3\MyExercise3\bin\Debug\MyExercise3.pdb
+F:\Visuel Studio Codes\MyExercise3\MyExercise3\obj\Debug\MyExercise3.exe
+F:\Visuel Studio Codes\MyExercise3\MyExercise3\obj\Debug\MyExercise3.pdb
