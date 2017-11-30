@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\Increments-Decrements\Increments-Decrements\bin\Debug\Increments-Decrements.exe.config
+F:\Visuel Studio Codes\Increments-Decrements\Increments-Decrements\bin\Debug\Increments-Decrements.exe
+F:\Visuel Studio Codes\Increments-Decrements\Increments-Decrements\bin\Debug\Increments-Decrements.pdb
+F:\Visuel Studio Codes\Increments-Decrements\Increments-Decrements\obj\Debug\Increments-Decrements.exe
+F:\Visuel Studio Codes\Increments-Decrements\Increments-Decrements\obj\Debug\Increments-Decrements.pdb
