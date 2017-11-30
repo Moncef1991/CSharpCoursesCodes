@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\Assignement-Exercise\Assignement-Exercise\bin\Debug\Assignement-Exercise.exe.config
+F:\Visuel Studio Codes\Assignement-Exercise\Assignement-Exercise\bin\Debug\Assignement-Exercise.exe
+F:\Visuel Studio Codes\Assignement-Exercise\Assignement-Exercise\bin\Debug\Assignement-Exercise.pdb
+F:\Visuel Studio Codes\Assignement-Exercise\Assignement-Exercise\obj\Debug\Assignement-Exercise.exe
+F:\Visuel Studio Codes\Assignement-Exercise\Assignement-Exercise\obj\Debug\Assignement-Exercise.pdb
