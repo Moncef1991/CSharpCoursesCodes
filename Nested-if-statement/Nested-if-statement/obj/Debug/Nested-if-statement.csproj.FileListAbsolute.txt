@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\Nested-if-statement\Nested-if-statement\bin\Debug\Nested-if-statement.exe.config
+F:\Visuel Studio Codes\Nested-if-statement\Nested-if-statement\bin\Debug\Nested-if-statement.exe
+F:\Visuel Studio Codes\Nested-if-statement\Nested-if-statement\bin\Debug\Nested-if-statement.pdb
+F:\Visuel Studio Codes\Nested-if-statement\Nested-if-statement\obj\Debug\Nested-if-statement.exe
+F:\Visuel Studio Codes\Nested-if-statement\Nested-if-statement\obj\Debug\Nested-if-statement.pdb
