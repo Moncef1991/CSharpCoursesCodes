@@ -15,7 +15,7 @@ namespace Nested_if_challenge
             if (myVar1 == 10)
             {
                 Console.WriteLine("myVar1 = 10");
-                if((myVar2>=5)&&(myVar3<=9))
+                if ((myVar2 >= 5) && (myVar3 <= 9))
                 {
                     Console.WriteLine("This is True");
                 }
@@ -24,7 +24,7 @@ namespace Nested_if_challenge
                     Console.WriteLine("This is False");
                 }
             }
-            
+
             else
             {
                 Console.WriteLine("myVar1 is not = 10");
