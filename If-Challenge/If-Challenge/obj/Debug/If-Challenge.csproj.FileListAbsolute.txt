@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\If-Challenge\If-Challenge\bin\Debug\If-Challenge.exe.config
+F:\Visuel Studio Codes\If-Challenge\If-Challenge\bin\Debug\If-Challenge.exe
+F:\Visuel Studio Codes\If-Challenge\If-Challenge\bin\Debug\If-Challenge.pdb
+F:\Visuel Studio Codes\If-Challenge\If-Challenge\obj\Debug\If-Challenge.exe
+F:\Visuel Studio Codes\If-Challenge\If-Challenge\obj\Debug\If-Challenge.pdb
