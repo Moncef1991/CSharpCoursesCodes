@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\Nested-if-challenge\Nested-if-challenge\bin\Debug\Nested-if-challenge.exe.config
+F:\Visuel Studio Codes\Nested-if-challenge\Nested-if-challenge\bin\Debug\Nested-if-challenge.exe
+F:\Visuel Studio Codes\Nested-if-challenge\Nested-if-challenge\bin\Debug\Nested-if-challenge.pdb
+F:\Visuel Studio Codes\Nested-if-challenge\Nested-if-challenge\obj\Debug\Nested-if-challenge.exe
+F:\Visuel Studio Codes\Nested-if-challenge\Nested-if-challenge\obj\Debug\Nested-if-challenge.pdb
