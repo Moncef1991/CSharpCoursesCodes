@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\Boolean-Exercise\Boolean-Exercise\bin\Debug\Boolean-Exercise.exe.config
+F:\Visuel Studio Codes\Boolean-Exercise\Boolean-Exercise\bin\Debug\Boolean-Exercise.exe
+F:\Visuel Studio Codes\Boolean-Exercise\Boolean-Exercise\bin\Debug\Boolean-Exercise.pdb
+F:\Visuel Studio Codes\Boolean-Exercise\Boolean-Exercise\obj\Debug\Boolean-Exercise.exe
+F:\Visuel Studio Codes\Boolean-Exercise\Boolean-Exercise\obj\Debug\Boolean-Exercise.pdb
