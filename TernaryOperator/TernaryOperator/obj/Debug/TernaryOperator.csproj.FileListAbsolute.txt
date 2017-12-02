@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.exe.config
+F:\Visuel Studio Codes\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.exe
+F:\Visuel Studio Codes\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.pdb
+F:\Visuel Studio Codes\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.exe
+F:\Visuel Studio Codes\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.pdb
