@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\Switch-challenge\Switch-challenge\bin\Debug\Switch-challenge.exe.config
+F:\Visuel Studio Codes\Switch-challenge\Switch-challenge\bin\Debug\Switch-challenge.exe
+F:\Visuel Studio Codes\Switch-challenge\Switch-challenge\bin\Debug\Switch-challenge.pdb
+F:\Visuel Studio Codes\Switch-challenge\Switch-challenge\obj\Debug\Switch-challenge.exe
+F:\Visuel Studio Codes\Switch-challenge\Switch-challenge\obj\Debug\Switch-challenge.pdb
