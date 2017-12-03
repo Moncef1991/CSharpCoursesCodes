@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\While\While\bin\Debug\While.exe.config
+F:\Visuel Studio Codes\While\While\bin\Debug\While.exe
+F:\Visuel Studio Codes\While\While\bin\Debug\While.pdb
+F:\Visuel Studio Codes\While\While\obj\Debug\While.exe
+F:\Visuel Studio Codes\While\While\obj\Debug\While.pdb
