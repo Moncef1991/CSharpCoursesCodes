@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Forloop-challenge\Forloop-challenge\bin\Debug\Forloop-challenge.exe.config
+F:\Visuel Studio Codes\Forloop-challenge\Forloop-challenge\obj\Debug\Forloop-challenge.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Forloop-challenge\Forloop-challenge\bin\Debug\Forloop-challenge.exe
+F:\Visuel Studio Codes\Forloop-challenge\Forloop-challenge\bin\Debug\Forloop-challenge.pdb
+F:\Visuel Studio Codes\Forloop-challenge\Forloop-challenge\obj\Debug\Forloop-challenge.exe
+F:\Visuel Studio Codes\Forloop-challenge\Forloop-challenge\obj\Debug\Forloop-challenge.pdb
