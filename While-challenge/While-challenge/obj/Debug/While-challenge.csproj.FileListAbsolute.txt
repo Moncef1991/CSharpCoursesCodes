@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\While-challenge\While-challenge\bin\Debug\While-challenge.exe.config
+F:\Visuel Studio Codes\While-challenge\While-challenge\bin\Debug\While-challenge.exe
+F:\Visuel Studio Codes\While-challenge\While-challenge\bin\Debug\While-challenge.pdb
+F:\Visuel Studio Codes\While-challenge\While-challenge\obj\Debug\While-challenge.exe
+F:\Visuel Studio Codes\While-challenge\While-challenge\obj\Debug\While-challenge.pdb
