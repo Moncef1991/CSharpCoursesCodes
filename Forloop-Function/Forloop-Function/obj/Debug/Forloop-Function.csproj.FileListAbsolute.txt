@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Forloop-Function\Forloop-Function\bin\Debug\Forloop-Function.exe.config
+F:\Visuel Studio Codes\Forloop-Function\Forloop-Function\bin\Debug\Forloop-Function.exe
+F:\Visuel Studio Codes\Forloop-Function\Forloop-Function\bin\Debug\Forloop-Function.pdb
+F:\Visuel Studio Codes\Forloop-Function\Forloop-Function\obj\Debug\Forloop-Function.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Forloop-Function\Forloop-Function\obj\Debug\Forloop-Function.exe
+F:\Visuel Studio Codes\Forloop-Function\Forloop-Function\obj\Debug\Forloop-Function.pdb
