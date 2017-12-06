@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Nested_loop\Nested_loop\bin\Debug\Nested_loop.exe.config
+F:\Visuel Studio Codes\Nested_loop\Nested_loop\bin\Debug\Nested_loop.exe
+F:\Visuel Studio Codes\Nested_loop\Nested_loop\bin\Debug\Nested_loop.pdb
+F:\Visuel Studio Codes\Nested_loop\Nested_loop\obj\Debug\Nested_loop.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Nested_loop\Nested_loop\obj\Debug\Nested_loop.exe
+F:\Visuel Studio Codes\Nested_loop\Nested_loop\obj\Debug\Nested_loop.pdb
