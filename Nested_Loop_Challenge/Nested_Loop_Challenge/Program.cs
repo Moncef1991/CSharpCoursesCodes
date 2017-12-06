@@ -23,9 +23,9 @@ namespace Nested_looplchallenge
             Console.WriteLine("For even number\n");
             for (int t = 2; t <= 6; t += 2)
             {
-                for (int s = 0; s <= 10; s++) 
+                for (int s = 0; s <= 10; s++)
                 {
-                    Console.WriteLine("{0} * {1} = {2}", t, s, t*s);
+                    Console.WriteLine("{0} * {1} = {2}", t, s, t * s);
                 }
                 Console.WriteLine("\n");
             }
@@ -41,7 +41,7 @@ namespace Nested_looplchallenge
             }
 
             Console.ReadKey();
-         }
+        }
 
     }
 }
