@@ -31,7 +31,7 @@ namespace Nested_looplchallenge
             }
 
             Console.WriteLine("For odd number\n");
-            for (int x = 2; x <= 6; x += 2)
+            for (int x = 1; x <= 6; x += 2)
             {
                 for (int y = 0; y <= 10; y++)
                 {

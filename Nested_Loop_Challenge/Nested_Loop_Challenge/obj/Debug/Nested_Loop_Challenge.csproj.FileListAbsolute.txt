@@ -1,6 +1,0 @@
-F:\Visuel Studio Codes\Nested_Loop_Challenge\Nested_Loop_Challenge\bin\Debug\Nested_Loop_Challenge.exe.config
-F:\Visuel Studio Codes\Nested_Loop_Challenge\Nested_Loop_Challenge\bin\Debug\Nested_Loop_Challenge.exe
-F:\Visuel Studio Codes\Nested_Loop_Challenge\Nested_Loop_Challenge\bin\Debug\Nested_Loop_Challenge.pdb
-F:\Visuel Studio Codes\Nested_Loop_Challenge\Nested_Loop_Challenge\obj\Debug\Nested_Loop_Challenge.csprojResolveAssemblyReference.cache
-F:\Visuel Studio Codes\Nested_Loop_Challenge\Nested_Loop_Challenge\obj\Debug\Nested_Loop_Challenge.exe
-F:\Visuel Studio Codes\Nested_Loop_Challenge\Nested_Loop_Challenge\obj\Debug\Nested_Loop_Challenge.pdb

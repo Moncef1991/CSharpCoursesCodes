@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Nested_Loop_Challenge")]
+[assembly: AssemblyTitle("Nested_Loop-challenge")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Nested_Loop_Challenge")]
+[assembly: AssemblyProduct("Nested_Loop-challenge")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e1ea34c5-e6e7-462d-bc53-31b53ae234f0")]
+[assembly: Guid("df5c6665-f1fc-4396-a285-b011ea71dfcd")]
 
 // Version information for an assembly consists of the following four values:
 //
