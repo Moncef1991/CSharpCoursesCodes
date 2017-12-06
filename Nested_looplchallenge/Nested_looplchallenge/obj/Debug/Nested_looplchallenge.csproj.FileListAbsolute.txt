@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Nested_looplchallenge\Nested_looplchallenge\bin\Debug\Nested_looplchallenge.exe.config
+F:\Visuel Studio Codes\Nested_looplchallenge\Nested_looplchallenge\bin\Debug\Nested_looplchallenge.exe
+F:\Visuel Studio Codes\Nested_looplchallenge\Nested_looplchallenge\bin\Debug\Nested_looplchallenge.pdb
+F:\Visuel Studio Codes\Nested_looplchallenge\Nested_looplchallenge\obj\Debug\Nested_looplchallenge.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Nested_looplchallenge\Nested_looplchallenge\obj\Debug\Nested_looplchallenge.exe
+F:\Visuel Studio Codes\Nested_looplchallenge\Nested_looplchallenge\obj\Debug\Nested_looplchallenge.pdb
