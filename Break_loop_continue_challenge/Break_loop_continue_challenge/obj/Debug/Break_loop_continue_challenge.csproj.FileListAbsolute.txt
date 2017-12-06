@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\Break_loop_continue_challenge\Break_loop_continue_challenge\bin\Debug\Break_loop_continue_challenge.exe.config
+F:\Visuel Studio Codes\Break_loop_continue_challenge\Break_loop_continue_challenge\bin\Debug\Break_loop_continue_challenge.exe
+F:\Visuel Studio Codes\Break_loop_continue_challenge\Break_loop_continue_challenge\bin\Debug\Break_loop_continue_challenge.pdb
+F:\Visuel Studio Codes\Break_loop_continue_challenge\Break_loop_continue_challenge\obj\Debug\Break_loop_continue_challenge.exe
+F:\Visuel Studio Codes\Break_loop_continue_challenge\Break_loop_continue_challenge\obj\Debug\Break_loop_continue_challenge.pdb
