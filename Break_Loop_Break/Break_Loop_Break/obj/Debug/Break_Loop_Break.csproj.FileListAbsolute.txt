@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Break_Loop_Break\Break_Loop_Break\bin\Debug\Break_Loop_Break.exe.config
+F:\Visuel Studio Codes\Break_Loop_Break\Break_Loop_Break\bin\Debug\Break_Loop_Break.exe
+F:\Visuel Studio Codes\Break_Loop_Break\Break_Loop_Break\bin\Debug\Break_Loop_Break.pdb
+F:\Visuel Studio Codes\Break_Loop_Break\Break_Loop_Break\obj\Debug\Break_Loop_Break.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Break_Loop_Break\Break_Loop_Break\obj\Debug\Break_Loop_Break.exe
+F:\Visuel Studio Codes\Break_Loop_Break\Break_Loop_Break\obj\Debug\Break_Loop_Break.pdb
