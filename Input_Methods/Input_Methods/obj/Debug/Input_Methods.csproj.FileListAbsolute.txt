@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Input_Methods\Input_Methods\bin\Debug\Input_Methods.exe.config
+F:\Visuel Studio Codes\Input_Methods\Input_Methods\bin\Debug\Input_Methods.exe
+F:\Visuel Studio Codes\Input_Methods\Input_Methods\bin\Debug\Input_Methods.pdb
+F:\Visuel Studio Codes\Input_Methods\Input_Methods\obj\Debug\Input_Methods.exe
+F:\Visuel Studio Codes\Input_Methods\Input_Methods\obj\Debug\Input_Methods.pdb
+F:\Visuel Studio Codes\Input_Methods\Input_Methods\obj\Debug\Input_Methods.csprojResolveAssemblyReference.cache
