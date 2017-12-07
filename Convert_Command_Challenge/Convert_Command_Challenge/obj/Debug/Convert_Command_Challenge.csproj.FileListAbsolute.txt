@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\Convert_Command_Challenge\Convert_Command_Challenge\bin\Debug\Convert_Command_Challenge.exe.config
+F:\Visuel Studio Codes\Convert_Command_Challenge\Convert_Command_Challenge\bin\Debug\Convert_Command_Challenge.exe
+F:\Visuel Studio Codes\Convert_Command_Challenge\Convert_Command_Challenge\bin\Debug\Convert_Command_Challenge.pdb
+F:\Visuel Studio Codes\Convert_Command_Challenge\Convert_Command_Challenge\obj\Debug\Convert_Command_Challenge.exe
+F:\Visuel Studio Codes\Convert_Command_Challenge\Convert_Command_Challenge\obj\Debug\Convert_Command_Challenge.pdb
