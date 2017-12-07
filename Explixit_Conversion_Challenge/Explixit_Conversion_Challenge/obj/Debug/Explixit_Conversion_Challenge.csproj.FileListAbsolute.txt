@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\Explixit_Conversion_Challenge\Explixit_Conversion_Challenge\bin\Debug\Explixit_Conversion_Challenge.exe.config
+F:\Visuel Studio Codes\Explixit_Conversion_Challenge\Explixit_Conversion_Challenge\bin\Debug\Explixit_Conversion_Challenge.exe
+F:\Visuel Studio Codes\Explixit_Conversion_Challenge\Explixit_Conversion_Challenge\bin\Debug\Explixit_Conversion_Challenge.pdb
+F:\Visuel Studio Codes\Explixit_Conversion_Challenge\Explixit_Conversion_Challenge\obj\Debug\Explixit_Conversion_Challenge.exe
+F:\Visuel Studio Codes\Explixit_Conversion_Challenge\Explixit_Conversion_Challenge\obj\Debug\Explixit_Conversion_Challenge.pdb
