@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Explicit-Conversion\Explicit-Conversion\bin\Debug\Explicit-Conversion.exe.config
+F:\Visuel Studio Codes\Explicit-Conversion\Explicit-Conversion\obj\Debug\Explicit-Conversion.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Explicit-Conversion\Explicit-Conversion\bin\Debug\Explicit-Conversion.exe
+F:\Visuel Studio Codes\Explicit-Conversion\Explicit-Conversion\bin\Debug\Explicit-Conversion.pdb
+F:\Visuel Studio Codes\Explicit-Conversion\Explicit-Conversion\obj\Debug\Explicit-Conversion.exe
+F:\Visuel Studio Codes\Explicit-Conversion\Explicit-Conversion\obj\Debug\Explicit-Conversion.pdb
