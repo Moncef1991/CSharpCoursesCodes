@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Implicit-Conversion\Implicit-Conversion\bin\Debug\Implicit-Conversion.exe.config
+F:\Visuel Studio Codes\Implicit-Conversion\Implicit-Conversion\bin\Debug\Implicit-Conversion.exe
+F:\Visuel Studio Codes\Implicit-Conversion\Implicit-Conversion\bin\Debug\Implicit-Conversion.pdb
+F:\Visuel Studio Codes\Implicit-Conversion\Implicit-Conversion\obj\Debug\Implicit-Conversion.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Implicit-Conversion\Implicit-Conversion\obj\Debug\Implicit-Conversion.exe
+F:\Visuel Studio Codes\Implicit-Conversion\Implicit-Conversion\obj\Debug\Implicit-Conversion.pdb
