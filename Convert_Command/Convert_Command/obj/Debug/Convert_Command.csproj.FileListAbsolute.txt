@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Convert_Command\Convert_Command\bin\Debug\Convert_Command.exe.config
+F:\Visuel Studio Codes\Convert_Command\Convert_Command\bin\Debug\Convert_Command.exe
+F:\Visuel Studio Codes\Convert_Command\Convert_Command\bin\Debug\Convert_Command.pdb
+F:\Visuel Studio Codes\Convert_Command\Convert_Command\obj\Debug\Convert_Command.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Convert_Command\Convert_Command\obj\Debug\Convert_Command.exe
+F:\Visuel Studio Codes\Convert_Command\Convert_Command\obj\Debug\Convert_Command.pdb
