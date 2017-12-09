@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Enums\Enums\bin\Debug\Enums.exe.config
+F:\Visuel Studio Codes\Enums\Enums\obj\Debug\Enums.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Enums\Enums\bin\Debug\Enums.exe
+F:\Visuel Studio Codes\Enums\Enums\bin\Debug\Enums.pdb
+F:\Visuel Studio Codes\Enums\Enums\obj\Debug\Enums.exe
+F:\Visuel Studio Codes\Enums\Enums\obj\Debug\Enums.pdb
