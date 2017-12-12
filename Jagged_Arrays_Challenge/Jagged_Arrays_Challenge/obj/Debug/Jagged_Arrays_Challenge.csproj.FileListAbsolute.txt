@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\bin\Debug\Jagged_Arrays_Challenge.exe.config
+F:\Visuel Studio Codes\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\bin\Debug\Jagged_Arrays_Challenge.exe
+F:\Visuel Studio Codes\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\bin\Debug\Jagged_Arrays_Challenge.pdb
+F:\Visuel Studio Codes\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\obj\Debug\Jagged_Arrays_Challenge.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\obj\Debug\Jagged_Arrays_Challenge.exe
+F:\Visuel Studio Codes\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\obj\Debug\Jagged_Arrays_Challenge.pdb
