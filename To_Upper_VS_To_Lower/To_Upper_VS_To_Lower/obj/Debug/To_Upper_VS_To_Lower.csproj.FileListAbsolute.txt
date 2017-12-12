@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\To_Upper_VS_To_Lower\To_Upper_VS_To_Lower\bin\Debug\To_Upper_VS_To_Lower.exe.config
+F:\Visuel Studio Codes\To_Upper_VS_To_Lower\To_Upper_VS_To_Lower\bin\Debug\To_Upper_VS_To_Lower.exe
+F:\Visuel Studio Codes\To_Upper_VS_To_Lower\To_Upper_VS_To_Lower\bin\Debug\To_Upper_VS_To_Lower.pdb
+F:\Visuel Studio Codes\To_Upper_VS_To_Lower\To_Upper_VS_To_Lower\obj\Debug\To_Upper_VS_To_Lower.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\To_Upper_VS_To_Lower\To_Upper_VS_To_Lower\obj\Debug\To_Upper_VS_To_Lower.exe
+F:\Visuel Studio Codes\To_Upper_VS_To_Lower\To_Upper_VS_To_Lower\obj\Debug\To_Upper_VS_To_Lower.pdb
