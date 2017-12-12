@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\String_Manipulation_Operations\String_Manipulation_Operations\bin\Debug\String_Manipulation_Operations.exe.config
+F:\Visuel Studio Codes\String_Manipulation_Operations\String_Manipulation_Operations\bin\Debug\String_Manipulation_Operations.exe
+F:\Visuel Studio Codes\String_Manipulation_Operations\String_Manipulation_Operations\bin\Debug\String_Manipulation_Operations.pdb
+F:\Visuel Studio Codes\String_Manipulation_Operations\String_Manipulation_Operations\obj\Debug\String_Manipulation_Operations.exe
+F:\Visuel Studio Codes\String_Manipulation_Operations\String_Manipulation_Operations\obj\Debug\String_Manipulation_Operations.pdb
