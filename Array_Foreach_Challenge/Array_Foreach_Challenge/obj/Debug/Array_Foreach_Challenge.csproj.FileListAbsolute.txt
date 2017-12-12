@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Array_Foreach_Challenge\Array_Foreach_Challenge\bin\Debug\Array_Foreach_Challenge.exe.config
+F:\Visuel Studio Codes\Array_Foreach_Challenge\Array_Foreach_Challenge\obj\Debug\Array_Foreach_Challenge.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Array_Foreach_Challenge\Array_Foreach_Challenge\bin\Debug\Array_Foreach_Challenge.exe
+F:\Visuel Studio Codes\Array_Foreach_Challenge\Array_Foreach_Challenge\bin\Debug\Array_Foreach_Challenge.pdb
+F:\Visuel Studio Codes\Array_Foreach_Challenge\Array_Foreach_Challenge\obj\Debug\Array_Foreach_Challenge.exe
+F:\Visuel Studio Codes\Array_Foreach_Challenge\Array_Foreach_Challenge\obj\Debug\Array_Foreach_Challenge.pdb
