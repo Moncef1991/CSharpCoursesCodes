@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Jagged_Arrays\Jagged_Arrays\bin\Debug\Jagged_Arrays.exe.config
+F:\Visuel Studio Codes\Jagged_Arrays\Jagged_Arrays\bin\Debug\Jagged_Arrays.exe
+F:\Visuel Studio Codes\Jagged_Arrays\Jagged_Arrays\bin\Debug\Jagged_Arrays.pdb
+F:\Visuel Studio Codes\Jagged_Arrays\Jagged_Arrays\obj\Debug\Jagged_Arrays.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Jagged_Arrays\Jagged_Arrays\obj\Debug\Jagged_Arrays.exe
+F:\Visuel Studio Codes\Jagged_Arrays\Jagged_Arrays\obj\Debug\Jagged_Arrays.pdb
