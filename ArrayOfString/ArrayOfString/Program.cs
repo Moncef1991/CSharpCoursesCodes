@@ -18,6 +18,11 @@ namespace ArrayOfString
                 Console.Write($"{myFullName[i]}" + " ");
             }
             Console.WriteLine($"\nMy array length is {myArrayLentgth}");
+
+            foreach (string myName in myFullName)
+            {
+                Console.Write($"{myName}" + " ");
+            }
             Console.ReadKey();
         }
     }

@@ -1,6 +1,6 @@
 F:\Visuel Studio Codes\ArrayOfString\ArrayOfString\bin\Debug\ArrayOfString.exe.config
-F:\Visuel Studio Codes\ArrayOfString\ArrayOfString\obj\Debug\ArrayOfString.csprojResolveAssemblyReference.cache
 F:\Visuel Studio Codes\ArrayOfString\ArrayOfString\bin\Debug\ArrayOfString.exe
 F:\Visuel Studio Codes\ArrayOfString\ArrayOfString\bin\Debug\ArrayOfString.pdb
+F:\Visuel Studio Codes\ArrayOfString\ArrayOfString\obj\Debug\ArrayOfString.csprojResolveAssemblyReference.cache
 F:\Visuel Studio Codes\ArrayOfString\ArrayOfString\obj\Debug\ArrayOfString.exe
 F:\Visuel Studio Codes\ArrayOfString\ArrayOfString\obj\Debug\ArrayOfString.pdb
