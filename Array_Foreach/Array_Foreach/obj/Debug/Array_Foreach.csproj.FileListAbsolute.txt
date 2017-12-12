@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Array_Foreach\Array_Foreach\bin\Debug\Array_Foreach.exe.config
+F:\Visuel Studio Codes\Array_Foreach\Array_Foreach\bin\Debug\Array_Foreach.exe
+F:\Visuel Studio Codes\Array_Foreach\Array_Foreach\bin\Debug\Array_Foreach.pdb
+F:\Visuel Studio Codes\Array_Foreach\Array_Foreach\obj\Debug\Array_Foreach.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Array_Foreach\Array_Foreach\obj\Debug\Array_Foreach.exe
+F:\Visuel Studio Codes\Array_Foreach\Array_Foreach\obj\Debug\Array_Foreach.pdb
