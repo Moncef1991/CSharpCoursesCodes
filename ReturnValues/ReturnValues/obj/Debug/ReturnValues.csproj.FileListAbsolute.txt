@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\ReturnValues\ReturnValues\bin\Debug\ReturnValues.exe.config
+F:\Visuel Studio Codes\ReturnValues\ReturnValues\bin\Debug\ReturnValues.exe
+F:\Visuel Studio Codes\ReturnValues\ReturnValues\bin\Debug\ReturnValues.pdb
+F:\Visuel Studio Codes\ReturnValues\ReturnValues\obj\Debug\ReturnValues.exe
+F:\Visuel Studio Codes\ReturnValues\ReturnValues\obj\Debug\ReturnValues.pdb
