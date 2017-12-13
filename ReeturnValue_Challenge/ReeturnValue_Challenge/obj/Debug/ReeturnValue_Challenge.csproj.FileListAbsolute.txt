@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\ReeturnValue_Challenge\ReeturnValue_Challenge\bin\Debug\ReeturnValue_Challenge.exe.config
+F:\Visuel Studio Codes\ReeturnValue_Challenge\ReeturnValue_Challenge\bin\Debug\ReeturnValue_Challenge.exe
+F:\Visuel Studio Codes\ReeturnValue_Challenge\ReeturnValue_Challenge\bin\Debug\ReeturnValue_Challenge.pdb
+F:\Visuel Studio Codes\ReeturnValue_Challenge\ReeturnValue_Challenge\obj\Debug\ReeturnValue_Challenge.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\ReeturnValue_Challenge\ReeturnValue_Challenge\obj\Debug\ReeturnValue_Challenge.exe
+F:\Visuel Studio Codes\ReeturnValue_Challenge\ReeturnValue_Challenge\obj\Debug\ReeturnValue_Challenge.pdb
