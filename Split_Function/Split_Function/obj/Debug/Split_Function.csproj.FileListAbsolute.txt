@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Split_Function\Split_Function\bin\Debug\Split_Function.exe.config
+F:\Visuel Studio Codes\Split_Function\Split_Function\bin\Debug\Split_Function.exe
+F:\Visuel Studio Codes\Split_Function\Split_Function\bin\Debug\Split_Function.pdb
+F:\Visuel Studio Codes\Split_Function\Split_Function\obj\Debug\Split_Function.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Split_Function\Split_Function\obj\Debug\Split_Function.exe
+F:\Visuel Studio Codes\Split_Function\Split_Function\obj\Debug\Split_Function.pdb
