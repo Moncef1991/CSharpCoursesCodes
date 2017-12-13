@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\ParametersVsArguments\ParametersVsArguments\bin\Debug\ParametersVsArguments.exe.config
+F:\Visuel Studio Codes\ParametersVsArguments\ParametersVsArguments\bin\Debug\ParametersVsArguments.exe
+F:\Visuel Studio Codes\ParametersVsArguments\ParametersVsArguments\bin\Debug\ParametersVsArguments.pdb
+F:\Visuel Studio Codes\ParametersVsArguments\ParametersVsArguments\obj\Debug\ParametersVsArguments.exe
+F:\Visuel Studio Codes\ParametersVsArguments\ParametersVsArguments\obj\Debug\ParametersVsArguments.pdb
