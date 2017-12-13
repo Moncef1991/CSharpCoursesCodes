@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Trim_Function_Challenge\Trim_Function_Challenge\bin\Debug\Trim_Function_Challenge.exe.config
+F:\Visuel Studio Codes\Trim_Function_Challenge\Trim_Function_Challenge\bin\Debug\Trim_Function_Challenge.exe
+F:\Visuel Studio Codes\Trim_Function_Challenge\Trim_Function_Challenge\bin\Debug\Trim_Function_Challenge.pdb
+F:\Visuel Studio Codes\Trim_Function_Challenge\Trim_Function_Challenge\obj\Debug\Trim_Function_Challenge.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Trim_Function_Challenge\Trim_Function_Challenge\obj\Debug\Trim_Function_Challenge.exe
+F:\Visuel Studio Codes\Trim_Function_Challenge\Trim_Function_Challenge\obj\Debug\Trim_Function_Challenge.pdb
