@@ -4,3 +4,9 @@ F:\Visuel Studio Codes\Input_Methods_Challenge\Input_Methods_Challenge\bin\Debug
 F:\Visuel Studio Codes\Input_Methods_Challenge\Input_Methods_Challenge\obj\Debug\Input_Methods_Challenge.csprojResolveAssemblyReference.cache
 F:\Visuel Studio Codes\Input_Methods_Challenge\Input_Methods_Challenge\obj\Debug\Input_Methods_Challenge.exe
 F:\Visuel Studio Codes\Input_Methods_Challenge\Input_Methods_Challenge\obj\Debug\Input_Methods_Challenge.pdb
+F:\LocalRepository\CSharpCoursesCodes\Input_Methods_Challenge\Input_Methods_Challenge\bin\Debug\Input_Methods_Challenge.exe.config
+F:\LocalRepository\CSharpCoursesCodes\Input_Methods_Challenge\Input_Methods_Challenge\bin\Debug\Input_Methods_Challenge.exe
+F:\LocalRepository\CSharpCoursesCodes\Input_Methods_Challenge\Input_Methods_Challenge\bin\Debug\Input_Methods_Challenge.pdb
+F:\LocalRepository\CSharpCoursesCodes\Input_Methods_Challenge\Input_Methods_Challenge\obj\Debug\Input_Methods_Challenge.csprojResolveAssemblyReference.cache
+F:\LocalRepository\CSharpCoursesCodes\Input_Methods_Challenge\Input_Methods_Challenge\obj\Debug\Input_Methods_Challenge.exe
+F:\LocalRepository\CSharpCoursesCodes\Input_Methods_Challenge\Input_Methods_Challenge\obj\Debug\Input_Methods_Challenge.pdb

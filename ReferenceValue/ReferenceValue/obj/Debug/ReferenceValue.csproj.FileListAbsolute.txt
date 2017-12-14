@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\ReferenceValue\ReferenceValue\bin\Debug\ReferenceValue.exe.config
+F:\Visuel Studio Codes\ReferenceValue\ReferenceValue\bin\Debug\ReferenceValue.exe
+F:\Visuel Studio Codes\ReferenceValue\ReferenceValue\bin\Debug\ReferenceValue.pdb
+F:\Visuel Studio Codes\ReferenceValue\ReferenceValue\obj\Debug\ReferenceValue.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\ReferenceValue\ReferenceValue\obj\Debug\ReferenceValue.exe
+F:\Visuel Studio Codes\ReferenceValue\ReferenceValue\obj\Debug\ReferenceValue.pdb

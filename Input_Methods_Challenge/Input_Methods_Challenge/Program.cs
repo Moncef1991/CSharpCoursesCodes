@@ -21,7 +21,7 @@ namespace Input_Methods_Challenge
             LastName = Console.ReadLine();
 
             Console.WriteLine("\nEnter your Salary\n");
-            Salary = (Convert.ToDecimal(Console.ReadLine()));
+            Salary = (Convert.ToDecimal(Console.Read()));
 
             Console.WriteLine($"\nWelcome {FirstName} {LastName}\n");
             Console.WriteLine("Your Salary for 12 months is {0} $ ", ((Salary - (TaxRate * Salary)) * 12));
