@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\OutParameters_Challenge\OutParameters_Challenge\bin\Debug\OutParameters_Challenge.exe.config
+F:\Visuel Studio Codes\OutParameters_Challenge\OutParameters_Challenge\bin\Debug\OutParameters_Challenge.exe
+F:\Visuel Studio Codes\OutParameters_Challenge\OutParameters_Challenge\bin\Debug\OutParameters_Challenge.pdb
+F:\Visuel Studio Codes\OutParameters_Challenge\OutParameters_Challenge\obj\Debug\OutParameters_Challenge.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\OutParameters_Challenge\OutParameters_Challenge\obj\Debug\OutParameters_Challenge.exe
+F:\Visuel Studio Codes\OutParameters_Challenge\OutParameters_Challenge\obj\Debug\OutParameters_Challenge.pdb
