@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\ReferenceValues_Challenge\ReferenceValues_Challenge\bin\Debug\ReferenceValues_Challenge.exe.config
+F:\Visuel Studio Codes\ReferenceValues_Challenge\ReferenceValues_Challenge\bin\Debug\ReferenceValues_Challenge.exe
+F:\Visuel Studio Codes\ReferenceValues_Challenge\ReferenceValues_Challenge\bin\Debug\ReferenceValues_Challenge.pdb
+F:\Visuel Studio Codes\ReferenceValues_Challenge\ReferenceValues_Challenge\obj\Debug\ReferenceValues_Challenge.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\ReferenceValues_Challenge\ReferenceValues_Challenge\obj\Debug\ReferenceValues_Challenge.exe
+F:\Visuel Studio Codes\ReferenceValues_Challenge\ReferenceValues_Challenge\obj\Debug\ReferenceValues_Challenge.pdb
