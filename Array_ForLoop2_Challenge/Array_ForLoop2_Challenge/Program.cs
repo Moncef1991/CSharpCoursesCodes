@@ -15,7 +15,7 @@ namespace Array_ForLoop2_Challenge
             
             for (int i = 0; i < 7; i++)
             {
-                if (maxValue < myNumbers[i])
+                if (maxValue > myNumbers[i])
                 {
                     maxValue = myNumbers[i];
                 }

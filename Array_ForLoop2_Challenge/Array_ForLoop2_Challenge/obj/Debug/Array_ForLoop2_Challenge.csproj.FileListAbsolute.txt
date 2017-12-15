@@ -4,3 +4,6 @@ F:\Visuel Studio Codes\Array_ForLoop2_Challenge\Array_ForLoop2_Challenge\bin\Deb
 F:\Visuel Studio Codes\Array_ForLoop2_Challenge\Array_ForLoop2_Challenge\bin\Debug\Array_ForLoop2_Challenge.pdb
 F:\Visuel Studio Codes\Array_ForLoop2_Challenge\Array_ForLoop2_Challenge\obj\Debug\Array_ForLoop2_Challenge.exe
 F:\Visuel Studio Codes\Array_ForLoop2_Challenge\Array_ForLoop2_Challenge\obj\Debug\Array_ForLoop2_Challenge.pdb
+F:\LocalRepository\CSharpCoursesCodes\Array_ForLoop2_Challenge\Array_ForLoop2_Challenge\bin\Debug\Array_ForLoop2_Challenge.exe.config
+F:\LocalRepository\CSharpCoursesCodes\Array_ForLoop2_Challenge\Array_ForLoop2_Challenge\obj\Debug\Array_ForLoop2_Challenge.exe
+F:\LocalRepository\CSharpCoursesCodes\Array_ForLoop2_Challenge\Array_ForLoop2_Challenge\obj\Debug\Array_ForLoop2_Challenge.pdb
