@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\Delegate_Type\Delegate_Type\bin\Debug\Delegate_Type.exe.config
+F:\Visuel Studio Codes\Delegate_Type\Delegate_Type\bin\Debug\Delegate_Type.exe
+F:\Visuel Studio Codes\Delegate_Type\Delegate_Type\bin\Debug\Delegate_Type.pdb
+F:\Visuel Studio Codes\Delegate_Type\Delegate_Type\obj\Debug\Delegate_Type.exe
+F:\Visuel Studio Codes\Delegate_Type\Delegate_Type\obj\Debug\Delegate_Type.pdb
