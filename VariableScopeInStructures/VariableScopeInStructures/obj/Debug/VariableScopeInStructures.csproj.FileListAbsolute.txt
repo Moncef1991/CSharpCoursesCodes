@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\VariableScopeInStructures\VariableScopeInStructures\bin\Debug\VariableScopeInStructures.exe.config
+F:\Visuel Studio Codes\VariableScopeInStructures\VariableScopeInStructures\bin\Debug\VariableScopeInStructures.exe
+F:\Visuel Studio Codes\VariableScopeInStructures\VariableScopeInStructures\bin\Debug\VariableScopeInStructures.pdb
+F:\Visuel Studio Codes\VariableScopeInStructures\VariableScopeInStructures\obj\Debug\VariableScopeInStructures.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\VariableScopeInStructures\VariableScopeInStructures\obj\Debug\VariableScopeInStructures.exe
+F:\Visuel Studio Codes\VariableScopeInStructures\VariableScopeInStructures\obj\Debug\VariableScopeInStructures.pdb
