@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\StructFunction\StructFunction\bin\Debug\StructFunction.exe.config
+F:\Visuel Studio Codes\StructFunction\StructFunction\bin\Debug\StructFunction.exe
+F:\Visuel Studio Codes\StructFunction\StructFunction\bin\Debug\StructFunction.pdb
+F:\Visuel Studio Codes\StructFunction\StructFunction\obj\Debug\StructFunction.exe
+F:\Visuel Studio Codes\StructFunction\StructFunction\obj\Debug\StructFunction.pdb
