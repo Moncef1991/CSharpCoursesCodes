@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\MainMethode\MainMethode\bin\Debug\MainMethode.exe.config
+F:\Visuel Studio Codes\MainMethode\MainMethode\bin\Debug\MainMethode.exe
+F:\Visuel Studio Codes\MainMethode\MainMethode\bin\Debug\MainMethode.pdb
+F:\Visuel Studio Codes\MainMethode\MainMethode\obj\Debug\MainMethode.exe
+F:\Visuel Studio Codes\MainMethode\MainMethode\obj\Debug\MainMethode.pdb
