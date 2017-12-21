@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\AssertionMethods\AssertionMethods\bin\Debug\AssertionMethods.exe.config
+F:\Visuel Studio Codes\AssertionMethods\AssertionMethods\bin\Debug\AssertionMethods.exe
+F:\Visuel Studio Codes\AssertionMethods\AssertionMethods\bin\Debug\AssertionMethods.pdb
+F:\Visuel Studio Codes\AssertionMethods\AssertionMethods\obj\Debug\AssertionMethods.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\AssertionMethods\AssertionMethods\obj\Debug\AssertionMethods.exe
+F:\Visuel Studio Codes\AssertionMethods\AssertionMethods\obj\Debug\AssertionMethods.pdb
