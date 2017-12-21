@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\CheckingValues\CheckingValues\bin\Debug\CheckingValues.exe.config
+F:\Visuel Studio Codes\CheckingValues\CheckingValues\obj\Debug\CheckingValues.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\CheckingValues\CheckingValues\bin\Debug\CheckingValues.exe
+F:\Visuel Studio Codes\CheckingValues\CheckingValues\bin\Debug\CheckingValues.pdb
+F:\Visuel Studio Codes\CheckingValues\CheckingValues\obj\Debug\CheckingValues.exe
+F:\Visuel Studio Codes\CheckingValues\CheckingValues\obj\Debug\CheckingValues.pdb
