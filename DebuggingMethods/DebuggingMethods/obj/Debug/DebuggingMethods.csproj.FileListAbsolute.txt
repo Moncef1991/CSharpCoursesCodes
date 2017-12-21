@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\DebuggingMethods\DebuggingMethods\bin\Debug\DebuggingMethods.exe.config
+F:\Visuel Studio Codes\DebuggingMethods\DebuggingMethods\bin\Debug\DebuggingMethods.exe
+F:\Visuel Studio Codes\DebuggingMethods\DebuggingMethods\bin\Debug\DebuggingMethods.pdb
+F:\Visuel Studio Codes\DebuggingMethods\DebuggingMethods\obj\Debug\DebuggingMethods.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\DebuggingMethods\DebuggingMethods\obj\Debug\DebuggingMethods.exe
+F:\Visuel Studio Codes\DebuggingMethods\DebuggingMethods\obj\Debug\DebuggingMethods.pdb
