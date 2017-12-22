@@ -1,0 +1,10 @@
+F:\Visuel Studio Codes\OperationsOn\OperationsOn\bin\Debug\OperationsOn.exe.config
+F:\Visuel Studio Codes\OperationsOn\OperationsOn\bin\Debug\OperationsOn.exe
+F:\Visuel Studio Codes\OperationsOn\OperationsOn\bin\Debug\OperationsOn.pdb
+F:\Visuel Studio Codes\OperationsOn\OperationsOn\obj\Debug\OperationsOn.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\OperationsOn\OperationsOn\obj\Debug\OperationsOn.exe
+F:\Visuel Studio Codes\OperationsOn\OperationsOn\obj\Debug\OperationsOn.pdb
+F:\Visuel Studio Codes\OperationsOn\OperationsOn\bin\Debug\OldBrothers.dll
+F:\Visuel Studio Codes\OperationsOn\OperationsOn\bin\Debug\YoungBrothers.dll
+F:\Visuel Studio Codes\OperationsOn\OperationsOn\bin\Debug\OldBrothers.pdb
+F:\Visuel Studio Codes\OperationsOn\OperationsOn\bin\Debug\YoungBrothers.pdb

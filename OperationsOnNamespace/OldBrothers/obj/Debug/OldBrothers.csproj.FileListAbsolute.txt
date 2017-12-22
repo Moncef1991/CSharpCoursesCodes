@@ -1,0 +1,10 @@
+F:\Visuel Studio Codes\OperationsOn\OldBrothers\bin\Debug\OldBrothers.dll
+F:\Visuel Studio Codes\OperationsOn\OldBrothers\bin\Debug\OldBrothers.pdb
+F:\Visuel Studio Codes\OperationsOn\OldBrothers\obj\Debug\OldBrothers.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\OperationsOn\OldBrothers\obj\Debug\OldBrothers.dll
+F:\Visuel Studio Codes\OperationsOn\OldBrothers\obj\Debug\OldBrothers.pdb
+F:\Visuel Studio Codes\OperationsOnNamespace\OldBrothers\bin\Debug\OldBrothers.dll
+F:\Visuel Studio Codes\OperationsOnNamespace\OldBrothers\bin\Debug\OldBrothers.pdb
+F:\Visuel Studio Codes\OperationsOnNamespace\OldBrothers\obj\Debug\OldBrothers.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\OperationsOnNamespace\OldBrothers\obj\Debug\OldBrothers.dll
+F:\Visuel Studio Codes\OperationsOnNamespace\OldBrothers\obj\Debug\OldBrothers.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationsOnNamespace", "OperationsOn\OperationsOnNamespace.csproj", "{3D8AAEB2-3456-4EB6-A89E-EAB2413CFED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungBrothers", "YoungBrothers\YoungBrothers.csproj", "{D998A705-108F-4AE6-A888-564F9704D21E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldBrothers", "OldBrothers\OldBrothers.csproj", "{59073611-6C7C-4869-9ED5-35B6F1A83900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D8AAEB2-3456-4EB6-A89E-EAB2413CFED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8AAEB2-3456-4EB6-A89E-EAB2413CFED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8AAEB2-3456-4EB6-A89E-EAB2413CFED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8AAEB2-3456-4EB6-A89E-EAB2413CFED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D998A705-108F-4AE6-A888-564F9704D21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D998A705-108F-4AE6-A888-564F9704D21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D998A705-108F-4AE6-A888-564F9704D21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D998A705-108F-4AE6-A888-564F9704D21E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59073611-6C7C-4869-9ED5-35B6F1A83900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59073611-6C7C-4869-9ED5-35B6F1A83900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59073611-6C7C-4869-9ED5-35B6F1A83900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59073611-6C7C-4869-9ED5-35B6F1A83900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
