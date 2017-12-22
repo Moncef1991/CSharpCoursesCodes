@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+F:\Visuel Studio Codes\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe
+F:\Visuel Studio Codes\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.pdb
+F:\Visuel Studio Codes\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.exe
+F:\Visuel Studio Codes\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.pdb
