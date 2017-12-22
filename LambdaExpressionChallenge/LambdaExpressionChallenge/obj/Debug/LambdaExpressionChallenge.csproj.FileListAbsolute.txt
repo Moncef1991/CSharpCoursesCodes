@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\LambdaExpressionChallenge\LambdaExpressionChallenge\bin\Debug\LambdaExpressionChallenge.exe.config
+F:\Visuel Studio Codes\LambdaExpressionChallenge\LambdaExpressionChallenge\bin\Debug\LambdaExpressionChallenge.exe
+F:\Visuel Studio Codes\LambdaExpressionChallenge\LambdaExpressionChallenge\bin\Debug\LambdaExpressionChallenge.pdb
+F:\Visuel Studio Codes\LambdaExpressionChallenge\LambdaExpressionChallenge\obj\Debug\LambdaExpressionChallenge.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\LambdaExpressionChallenge\LambdaExpressionChallenge\obj\Debug\LambdaExpressionChallenge.exe
+F:\Visuel Studio Codes\LambdaExpressionChallenge\LambdaExpressionChallenge\obj\Debug\LambdaExpressionChallenge.pdb
