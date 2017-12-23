@@ -1,0 +1,7 @@
+F:\Visuel Studio Codes\RecuriveFunctionChallenge\RecuriveFunctionChallenge\bin\Debug\RecuriveFunctionChallenge.exe.config
+F:\Visuel Studio Codes\RecuriveFunctionChallenge\RecuriveFunctionChallenge\bin\Debug\RecuriveFunctionChallenge.exe
+F:\Visuel Studio Codes\RecuriveFunctionChallenge\RecuriveFunctionChallenge\bin\Debug\RecuriveFunctionChallenge.pdb
+F:\Visuel Studio Codes\RecuriveFunctionChallenge\RecuriveFunctionChallenge\obj\Debug\RecuriveFunctionChallenge.exe
+F:\Visuel Studio Codes\RecuriveFunctionChallenge\RecuriveFunctionChallenge\obj\Debug\RecuriveFunctionChallenge.pdb
+F:\Visuel Studio Codes\RecuriveFunctionChallenge\RecuriveFunctionChallenge\bin\Debug\RecuriveFunctionChallenge.exe.CodeAnalysisLog.xml
+F:\Visuel Studio Codes\RecuriveFunctionChallenge\RecuriveFunctionChallenge\bin\Debug\RecuriveFunctionChallenge.exe.lastcodeanalysissucceeded
