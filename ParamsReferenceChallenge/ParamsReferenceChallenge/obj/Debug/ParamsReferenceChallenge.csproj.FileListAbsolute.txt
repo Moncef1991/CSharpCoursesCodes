@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\ParamsReferenceChallenge\ParamsReferenceChallenge\bin\Debug\ParamsReferenceChallenge.exe.config
+F:\Visuel Studio Codes\ParamsReferenceChallenge\ParamsReferenceChallenge\obj\Debug\ParamsReferenceChallenge.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\ParamsReferenceChallenge\ParamsReferenceChallenge\bin\Debug\ParamsReferenceChallenge.exe
+F:\Visuel Studio Codes\ParamsReferenceChallenge\ParamsReferenceChallenge\bin\Debug\ParamsReferenceChallenge.pdb
+F:\Visuel Studio Codes\ParamsReferenceChallenge\ParamsReferenceChallenge\obj\Debug\ParamsReferenceChallenge.exe
+F:\Visuel Studio Codes\ParamsReferenceChallenge\ParamsReferenceChallenge\obj\Debug\ParamsReferenceChallenge.pdb
