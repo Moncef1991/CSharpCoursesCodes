@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\MoreArrayOperations\MoreArrayOperations\bin\Debug\MoreArrayOperations.exe.config
+F:\Visuel Studio Codes\MoreArrayOperations\MoreArrayOperations\bin\Debug\MoreArrayOperations.exe
+F:\Visuel Studio Codes\MoreArrayOperations\MoreArrayOperations\bin\Debug\MoreArrayOperations.pdb
+F:\Visuel Studio Codes\MoreArrayOperations\MoreArrayOperations\obj\Debug\MoreArrayOperations.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\MoreArrayOperations\MoreArrayOperations\obj\Debug\MoreArrayOperations.exe
+F:\Visuel Studio Codes\MoreArrayOperations\MoreArrayOperations\obj\Debug\MoreArrayOperations.pdb
