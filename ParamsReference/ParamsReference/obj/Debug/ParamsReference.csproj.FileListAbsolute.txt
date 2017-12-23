@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\ParamsReference\ParamsReference\bin\Debug\ParamsReference.exe.config
+F:\Visuel Studio Codes\ParamsReference\ParamsReference\bin\Debug\ParamsReference.exe
+F:\Visuel Studio Codes\ParamsReference\ParamsReference\bin\Debug\ParamsReference.pdb
+F:\Visuel Studio Codes\ParamsReference\ParamsReference\obj\Debug\ParamsReference.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\ParamsReference\ParamsReference\obj\Debug\ParamsReference.exe
+F:\Visuel Studio Codes\ParamsReference\ParamsReference\obj\Debug\ParamsReference.pdb
