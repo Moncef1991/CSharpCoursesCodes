@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\GotoStatement\GotoStatement\bin\Debug\GotoStatement.exe.config
+F:\Visuel Studio Codes\GotoStatement\GotoStatement\bin\Debug\GotoStatement.exe
+F:\Visuel Studio Codes\GotoStatement\GotoStatement\bin\Debug\GotoStatement.pdb
+F:\Visuel Studio Codes\GotoStatement\GotoStatement\obj\Debug\GotoStatement.exe
+F:\Visuel Studio Codes\GotoStatement\GotoStatement\obj\Debug\GotoStatement.pdb
