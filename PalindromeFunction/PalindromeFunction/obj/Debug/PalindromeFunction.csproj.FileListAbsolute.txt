@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\PalindromeFunction\PalindromeFunction\bin\Debug\PalindromeFunction.exe.config
+F:\Visuel Studio Codes\PalindromeFunction\PalindromeFunction\bin\Debug\PalindromeFunction.exe
+F:\Visuel Studio Codes\PalindromeFunction\PalindromeFunction\bin\Debug\PalindromeFunction.pdb
+F:\Visuel Studio Codes\PalindromeFunction\PalindromeFunction\obj\Debug\PalindromeFunction.exe
+F:\Visuel Studio Codes\PalindromeFunction\PalindromeFunction\obj\Debug\PalindromeFunction.pdb
